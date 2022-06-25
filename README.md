@@ -5,7 +5,7 @@ This version only allows the answers to be webaddresses, as I found that the sub
 
 Overview:
 
-Option 1: " Practice with Cards" is a standard way of viewing flash cards.  You get a single item of a given subject, you then view the definition within an 
+Option 1: " Practice with Cards" is a standard way of viewing flash cards.  You get a single item of a given subject, you then view the definition within a 
 specified online resource.  You also have the option to 'skip' a card when viewing the item before the definition page.  This way, if it's an item that
 is already known, you can go on until you get to one you aren't familiar with.
 

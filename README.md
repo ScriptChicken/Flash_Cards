@@ -1,4 +1,7 @@
 # Flash_Cards
+To Launch:
+Copy all files out of the root folder, save to your local machine and either run the "Flash_Cards.py" file or run the Flash_Cards.exe file.
+
 Flash Card application that  allows the cards to be updated via a CSV file.  The answers must be web addresses.
 
 This version only allows the answers to be webaddresses, as I found that the subject I was studying for had a great online help reference section.

@@ -1,0 +1,23 @@
+questions,answers
+Aspect,https://pro.arcgis.com/en/pro-app/2.9/tool-reference/spatial-analyst/aspect.htm
+Buffer,https://pro.arcgis.com/en/pro-app/2.9/tool-reference/analysis/buffer.htm
+Calculate Field,https://pro.arcgis.com/en/pro-app/2.9/tool-reference/big-data-analytics/calculate-field.htm
+Clip,https://pro.arcgis.com/en/pro-app/2.9/help/analysis/raster-functions/clip-function.htm
+Clip Raster,https://pro.arcgis.com/en/pro-app/2.9/tool-reference/data-management/clip.htm
+Contour,https://pro.arcgis.com/en/pro-app/2.9/arcpy/image-analyst/contour.htm
+Dissolve,https://pro.arcgis.com/en/pro-app/2.9/tool-reference/data-management/dissolve.htm
+Erase,https://pro.arcgis.com/en/pro-app/2.9/tool-reference/analysis/erase.htm
+Hillshade,https://pro.arcgis.com/en/pro-app/2.9/help/analysis/raster-functions/hillshade-function.htm
+Identity,https://pro.arcgis.com/en/pro-app/2.9/tool-reference/analysis/identity.htm
+Intersect,https://pro.arcgis.com/en/pro-app/2.9/tool-reference/analysis/how-intersect-analysis-works.htm
+Join,https://pro.arcgis.com/en/pro-app/2.9/tool-reference/data-management/join-field.htm
+Multiple Ring Buffer,https://pro.arcgis.com/en/pro-app/2.9/tool-reference/analysis/multiple-ring-buffer.htm
+Near,https://pro.arcgis.com/en/pro-app/2.9/tool-reference/analysis/near.htm
+Near Table,https://pro.arcgis.com/en/pro-app/2.9/tool-reference/analysis/generate-near-table.htm
+Raster Calculator,https://pro.arcgis.com/en/pro-app/2.9/tool-reference/image-analyst/raster-calculator.htm
+Raster To Feature,https://pro.arcgis.com/en/pro-app/2.9/tool-reference/raster-analysis/convert-raster-to-feature.htm
+Slope,https://pro.arcgis.com/en/pro-app/2.9/help/analysis/raster-functions/slope-function.htm
+Spatial Join,https://pro.arcgis.com/en/pro-app/2.9/tool-reference/analysis/spatial-join.htm
+Tabulate Area,https://pro.arcgis.com/en/pro-app/2.9/tool-reference/spatial-analyst/tabulate-area.htm
+Zonal Statistics,https://pro.arcgis.com/en/pro-app/2.9/tool-reference/spatial-analyst/zonal-statistics.htm
+Zonal Statistics as Table,https://pro.arcgis.com/en/pro-app/2.9/tool-reference/spatial-analyst/zonal-statistics-as-table.htm
